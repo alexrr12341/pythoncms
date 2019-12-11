@@ -235,7 +235,7 @@ if DJANGO_VERSION < (1, 9):
 
 INSTALLED_APPS = (
     "django.contrib.admin",
-    "moderna",
+    "flat",
     "django.contrib.auth",
     "django.contrib.contenttypes",
     "django.contrib.redirects",
